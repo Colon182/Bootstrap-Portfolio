@@ -1,4 +1,14 @@
-header {
+.card{
+    background-color: black;
+    color: white;
+}
+
+.jumbotron{
+    background-color: black;
+    color: white;
+}
+
+Header {
     background-color: rgb(255, 42, 42);
 }
 
@@ -18,7 +28,7 @@ h1 {
 }
 
 h2{
-    font-size: xx-large;
+    font-size: 40px;
 }
 
 #AboutMe{
