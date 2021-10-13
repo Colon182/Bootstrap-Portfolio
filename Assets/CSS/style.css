@@ -8,6 +8,10 @@
     color: white;
 }
 
+.lead{
+    text-align: center;
+}
+
 Header {
     background-color: rgb(255, 42, 42);
 }
@@ -15,16 +19,15 @@ Header {
 body {
     background-color: grey;
 }
-.Header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.header-list{
+    text-align: right;
+    font-size: large;
 }
 
 
 h1 {
     font-size: 40px;
-    padding-left: 5%;
+    text-align: center;
 }
 
 h2{
