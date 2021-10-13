@@ -1,0 +1,74 @@
+header {
+    background-color: rgb(255, 42, 42);
+}
+
+body {
+    background-color: grey;
+}
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 40px;
+    padding-left: 5%;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+#AboutMe{
+    text-align: center;
+}
+
+#Works {
+    text-align: center;
+    
+}
+
+.Header ul {
+    list-style-type: none;
+    float: right;
+    font-size: 20px;
+    padding-right: 30px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+p {
+    font-size: large;
+}
+
+.worksImg{
+    height: 500px;
+    width: 800px;
+}
+
+figcaption{
+    color: white;
+    font-size: x-large;
+}
+
+#ContactMe {
+    background-color: rgb(255, 42, 42);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   
+
+#ContactMe ul {
+    font-size: 20px;
+    padding-right: 30px;
+}
